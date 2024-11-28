@@ -1,0 +1,35 @@
+/* Container for the entire navigation menu */
+header {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  /* Style the unordered list */
+  .top-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centers the menu horizontally */
+  }
+  
+  /* Style each menu item */
+  .top-menu li {
+    margin: 0 20px; /* Add space between items */
+  }
+  
+  /* Style the links */
+  .top-menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 15px;
+    display: block;
+  }
+  
+  /* Add hover effect */
+  .top-menu a:hover {
+    background-color: #555;
+  }
+  
