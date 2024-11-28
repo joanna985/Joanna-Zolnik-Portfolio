@@ -1,0 +1,4 @@
+# _config.yml for GitHub Pages site
+title: My Awesome Site
+description: A description of my awesome GitHub Pages site
+theme: jekyll-theme-slate  # Or use a different theme of your choice
