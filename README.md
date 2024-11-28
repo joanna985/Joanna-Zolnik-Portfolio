@@ -1,2 +1,2 @@
-# JoannaZolnik.github.io
+# Joanna Zolnik Portfolio
 A portfolio website.
