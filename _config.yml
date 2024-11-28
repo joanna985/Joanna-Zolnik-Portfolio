@@ -1,4 +1,6 @@
 # _config.yml for GitHub Pages site
 title: My Awesome Site
 description: A description of my awesome GitHub Pages site
-theme: jekyll-theme-slate  # Or use a different theme of your choice
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
